@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/MetroBank/MetroDigital/_apis/build/status/zolibh.azure-pipeline?branchName=master)](https://dev.azure.com/MetroBank/MetroDigital/_build/latest?definitionId=34&branchName=master)
 
 # Contributing
 
